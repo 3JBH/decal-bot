@@ -515,5 +515,5 @@ if (command === 'ping') {
   
 })
 require('./server')();
-client.login('OTM2MzkxMjc2MjI2NTc2NDI1.YfMgVQ.TeBouWxjtDb2ifWrS_KVe3I0Lxw');
+client.login('Your token');
 
